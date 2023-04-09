@@ -14,6 +14,10 @@ python-dateutil>=2.8.0
 pytorch-lightning>=1.7,<2.0.0
 tensorboard
 torch>=1.8.0,<2.0
+torchvision==0.14.1
+torchaudio==0.13.1
+torchtext==0.14.1
+torchdata==0.5.1
 torchmetrics>=0.9.3
 typing_extensions>=4.4.0;python_version<'3.8'
 widgetsnbextension>=4.0.5
